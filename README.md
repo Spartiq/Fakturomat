@@ -1,0 +1,5 @@
+# Fakturomat
+
+  
+In current state to launch application u need to download Android Studio and launch app as a project.
+Next u can either emulate phone on your computer or plug ur phone to PC and set it to debug mode.
